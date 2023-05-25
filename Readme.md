@@ -1,4 +1,4 @@
-# JavaScrip++
+# JavaScript++
 
 install command
 
